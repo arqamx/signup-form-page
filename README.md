@@ -1,4 +1,4 @@
-# signupForm
+# Signup Form
 
 A responsive signup form with attractive design. 
 
